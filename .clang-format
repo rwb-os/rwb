@@ -1,0 +1,7 @@
+BasedOnStyle: Microsoft
+BreakBeforeBraces: Attach
+UseTab: Always
+AllowShortBlocksOnASingleLine: true
+AllowShortFunctionsOnASingleLine: Empty
+AllowShortIfStatementsOnASingleLine: AllIfsAndElse
+AllowShortLoopsOnASingleLine: true
